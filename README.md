@@ -3,7 +3,7 @@ Implementation of Decision Tree Classifier from scratch using Python on Dating D
 
 
 The project folder contains 4 python files: 
-1. preprocess-assg4.py
+1. preprocess.py
 2. trees.py
 3. cv_depth.py
 4. cv_frac.py
@@ -13,7 +13,7 @@ The project folder contains 4 python files:
 
 This script contains the preprocessing steps like removing the columns, normalization, label encoding, discretization and split the dataset. It makes use of dating-full.csv as the input. It outputs trainingSet.csv and testSet.csv.
 
-Execution : python3 preprocess-assg4.py
+Execution : python3 preprocess.py
 
 2. trees.py
 
